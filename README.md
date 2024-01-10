@@ -1,0 +1,1 @@
+Student Management System has been designed to streamline the administrative and academic processes of educational institutions.It automates and consolidates various tasks related to student data,course management,assessment,and communication,creating a more efficient and organized learning environment for both students and educators.
